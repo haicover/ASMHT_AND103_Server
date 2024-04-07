@@ -28,4 +28,4 @@ const Fruits = new Scheme({
     timestamps:true
 })
 
-module.exports = mongoose.model('fruits',Fruits)
+module.exports = mongoose.model('fruit',Fruits)
